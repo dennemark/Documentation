@@ -77,6 +77,8 @@ onmessage = function (evt) {
 };
 ```
 
+So far there is no offically tested support for passing events to an Offscreen Canvas, but users have experimented with synchronising events to the offscreen worker https://forum.babylonjs.com/t/support-for-offscreen-canvas/6099/6
+
 # Compatibility
 
 Note that this feature is new and not yet compatible with every device or browser.
